@@ -1,6 +1,8 @@
 #include "gen.h"
 
 // https://leetcode.com/problems/shuffle-the-array
+// Runtime	: 12 ms
+// Memory	: 9.6 MB
 
 class Solution {
 public:

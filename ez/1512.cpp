@@ -1,6 +1,8 @@
 #include "gen.h"
 
 // https://leetcode.com/problems/number-of-good-pairs/
+// Runtime	: 4 ms
+// Memory	: 7.2 MB
 
 class Solution {
 public:

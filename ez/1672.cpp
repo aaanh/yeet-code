@@ -1,6 +1,8 @@
 #include "gen.h"
 
 // https://leetcode.com/problems/richest-customer-wealth/
+// Runtime  : 4 ms
+// Memory   : 8 MB
 
 class Solution {
 public:
@@ -13,10 +15,7 @@ public:
             {
                 sum += j;
             }
-            if (sum > max)
-            {
-                max = sum;
-            }
+            max = std::max(max, sum);
         }
         return max;
     }

@@ -1,6 +1,8 @@
 #include "gen.h"
 
 // https://leetcode.com/problems/defanging-an-ip-address
+// Runtime	: 4 ms
+// Memory	: 6 MB
 
 class Solution {
 public:

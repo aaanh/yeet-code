@@ -1,6 +1,8 @@
 #include "gen.h"
 
 // https://leetcode.com/problems/running-sum-of-1d-array
+// Runtime	: 4 ms
+// Memory	: 8.5 MB
 
 class Solution {
 public:
