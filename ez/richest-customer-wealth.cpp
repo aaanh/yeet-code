@@ -1,4 +1,4 @@
-#include "gen.h"
+#include "../gen.h"
 
 // https://leetcode.com/problems/richest-customer-wealth/
 // Runtime  : 4 ms

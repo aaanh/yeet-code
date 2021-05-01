@@ -1,4 +1,4 @@
-#include "gen.h"
+#include "../gen.h"
 
 // https://leetcode.com/problems/running-sum-of-1d-array
 // Runtime	: 4 ms

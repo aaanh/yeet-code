@@ -1,4 +1,4 @@
-#include "gen.h"
+#include "../gen.h"
 
 // https://leetcode.com/problems/shuffle-the-array
 // Runtime	: 12 ms

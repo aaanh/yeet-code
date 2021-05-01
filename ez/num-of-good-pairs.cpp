@@ -1,4 +1,4 @@
-#include "gen.h"
+#include "../gen.h"
 
 // https://leetcode.com/problems/number-of-good-pairs/
 // Runtime	: 4 ms
