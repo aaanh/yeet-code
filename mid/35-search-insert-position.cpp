@@ -1,11 +1,11 @@
 #include "../gen.h"
 
 // https://leetcode.com/problems/first-bad-version/
-// Runtime	: 0 ms
-// Memory	: 6 MB
+// Runtime	:  ms
+// Memory	:  MB
 
 // Sorted array of n-size.
-// Search for <int> bad.
+// Return index of target if found, if not, then insert at sorted order.
 
 bool isBadVersion(int version)
 {
